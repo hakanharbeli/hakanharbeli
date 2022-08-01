@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakanharbeli
-- 👀 I’m interested in Android Development and Machine Learning
+- 👀 I’m interested in Mobile Development and Machine Learning
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on implementing reinforcement learning in e-commerce app.
 - 📫 How to reach me hakanharbelioglu@gmail.com
